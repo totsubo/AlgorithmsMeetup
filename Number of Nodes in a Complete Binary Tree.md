@@ -1,4 +1,4 @@
-# TitleG
+# Count the Number of Nodes in a Complete Binary Tree
 
 ## Summary
 
@@ -8,7 +8,7 @@ Note:
 
 In a complete binary tree every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible. It can have between 1 and 2h nodes inclusive at the last level h.
 
-The definition of a complete binary tree from [http://en.wikipedia.org/wiki/Binary_tree#Types_of_binary_trees](Wikipedia)
+The definition of a complete binary tree from [Wikipedia](http://en.wikipedia.org/wiki/Binary_tree#Types_of_binary_trees)
 
 ![](./Complete-Binary-Tree.png)
 ## Input
