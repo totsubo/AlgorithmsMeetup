@@ -49,7 +49,7 @@ Space complexity: `O(m)` where `m` is the maximum number of unique message that 
 ### Use Radix Sort and Buckets
 https://leetcode.com/problems/logger-rate-limiter/discuss/83256/Java-Circular-Buffer-Solution-similar-to-Hit-Counter
 
-It's a need idea and fun to think about. It also takes care of keeping memory low but compared to the other solutions it's a bit more code and slightly less efficient, it's `O(10n)`, which is the same as `O(n)` but still, that's up to `10x` the number of lookups compared to a plan `HashMap` implementation.
+It's a neet idea and fun to think about. It also takes care of keeping memory low but compared to the other solutions it's a bit more code and slightly less efficient, it's `O(10n)`, which is the same as `O(n)` but still, that's up to `10x` the number of lookups compared to a plan `HashMap` implementation.
 
 ### Concurency / Thread safety
 
